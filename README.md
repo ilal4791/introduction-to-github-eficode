@@ -171,13 +171,6 @@ The following steps will guide you through the process of committing a change on
 
 5. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice and also include our issue. In the commit message we want to refer to our issue in the project board. In your commit message, enter `Closing #1` in the first text-entry field below **Commit new file** at the bottom of the page. By writing **Closing** we are implying that we have finished our issue and that it should be closed when the code is merged in the master branch.
 
-  Then, if you want to confirm what your screen should look like, expand the dropdown below.
-
-   <details>
-   <summary> Expand to see the screenshot.</summary>
-   <img alt="screenshot of adding a new file with a commit message" src="/images/commit-full-screen.png" />
-   </details>
-
 6. In this lesson, we'll ignore the other fields and click **Commit new file**.
 7. Move on to Step 4!
 

@@ -67,14 +67,14 @@ People use GitHub to build some of the most advanced technologies in the world. 
 
 <details id=1>
 <summary><h2>Step 1: Create a project board</h2></summary>
- _Welcome to "Introduction to GitHub"! :wave:_
+ Welcome to "Introduction to GitHub"! :wave:
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
   
 ### :keyboard: Activity: Your first project board 
   
-1. Navigate to the **Projects** tab in the header menu of your repository.
+1. Navigate to the **Projects** tab in the header menu of your repository. (If you don't have this tab, click the settings tab and enable "projects" in the list of features, and then continue)
   
 2. Click **Link a project** and in the dropdown **Create a new project...**
     

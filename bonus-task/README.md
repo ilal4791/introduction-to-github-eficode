@@ -11,8 +11,10 @@ Well done on making it to the bonus task! 🌟 Let's dive into some Git CLI fun!
 
 <details id=1>
 <summary><h2>Bonus tasks</h2></summary>
-1. Clone the existing repository to your local machine by running the command git clone <repository_url>. Replace <repository_url> with the URL of the repository you want to clone. This will create a local copy of the repository on your machine.
-Navigate to the local repository directory using the command cd <repository_name>. Replace <repository_name> with the name of the directory that was created when you cloned the repository.
+1. Navigate to the **<> Code** tab of the repository and click the green button that says **<>Code**. Copy the clone URL given in the dropdown. Clone the existing repository to your local machine by running the command ´git clone <repository_url>´ in your terminal. 
+
+This will create a local copy of the repository on your machine.
+Navigate to the local repository directory using the command ´cd <repository_name>´. 
   
 2. Create a new branch by using the command `git checkout -b dev-branch`  
   

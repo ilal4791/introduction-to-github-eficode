@@ -91,7 +91,10 @@ People use GitHub to build some of the most advanced technologies in the world. 
 9. Name the issue "Learning GitHub" and click create.
 
 Great, now we have our first project board with an issue! Let's now focus on finishing it. 🚀
+</details>
 
+  
+<details id=2 open>
 <summary><h2>Step 2: Create a branch</h2></summary>
 
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
@@ -135,7 +138,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=3>
 <summary><h2>Step 3: Commit a file</h2></summary>
 
 _You created a branch! :tada:_
@@ -190,7 +193,7 @@ The following steps will guide you through the process of committing a change on
   and that the file was named correctly.
 -->
 
-<details id=3 open>
+<details id=4 open>
 <summary><h2>Step 4: Open a pull request</h2></summary>
 
 _Nice work making that commit! :sparkles:_

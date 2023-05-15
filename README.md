@@ -74,7 +74,7 @@ People use GitHub to build some of the most advanced technologies in the world. 
   
 ### :keyboard: Activity: Your first project board 
   
-1. Navigate to the **Projects** tab in the header menu of your repository. (If you don't have this tab, click the settings tab and enable "projects" in the list of features, and then continue)
+1. Navigate to the **Projects** tab in the header menu of your repository. (If you don't have this tab, click the settings tab and enable "projects" in the list of features)
   
 2. Click **Link a project** and in the dropdown **Create a new project...**
     

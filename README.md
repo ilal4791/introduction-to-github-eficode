@@ -169,7 +169,7 @@ The following steps will guide you through the process of committing a change on
 
    <img alt="profile.md file screenshot" src="/images/my-profile-file.png"/>
 
-5. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice and also include our issue. In the commit message we want to refer to our issue in the project board. In your commit message, enter `Resolving #1` in the first text-entry field below **Commit changes** at the bottom of the page. By writing **Resolving** we are implying that we have finished our issue and that it should be closed when the code is merged in the master branch.
+5. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice and also include our issue. In the commit message we want to refer to our issue in the project board. In your commit message, enter `Close #1` in the first text-entry field below **Commit changes** at the bottom of the page. By writing the key word **Close** we are implying that we have finished our issue and that it should be closed when the code is merged in the master branch.
 
 6. In this lesson, we'll ignore the other fields and click **Commit changes...**.
 7. Move on to Step 4!

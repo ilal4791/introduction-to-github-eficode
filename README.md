@@ -48,9 +48,10 @@ People use GitHub to build some of the most advanced technologies in the world. 
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/ilal4791/introduction-to-github-eficode/generate)
 
 1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
+2. In the new tab, enter the following information
    - Choose your personal account to host the repository.
-   - Use a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - Name the repository: introduction-to-github-<yourname>. Change <yourname> to your first name.
+   - Use a public repository.
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
@@ -168,9 +169,9 @@ The following steps will guide you through the process of committing a change on
 
    <img alt="profile.md file screenshot" src="/images/my-profile-file.png"/>
 
-5. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice and also include our issue. In the commit message we want to refer to our issue in the project board. In your commit message, enter `Closing #1` in the first text-entry field below **Commit new file** at the bottom of the page. By writing **Closing** we are implying that we have finished our issue and that it should be closed when the code is merged in the master branch.
+5. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice and also include our issue. In the commit message we want to refer to our issue in the project board. In your commit message, enter `Resolving #1` in the first text-entry field below **Commit changes** at the bottom of the page. By writing **Resolving** we are implying that we have finished our issue and that it should be closed when the code is merged in the master branch.
 
-6. In this lesson, we'll ignore the other fields and click **Commit new file**.
+6. In this lesson, we'll ignore the other fields and click **Commit changes...**.
 7. Move on to Step 4!
 
    **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
@@ -210,7 +211,7 @@ To create a pull request automatically, click **Compare & pull request**, and th
    <img alt="screenshot showing both branch selections" src="/images/pull-request-branches.png" />
 
 5. Click **Create pull request**.
-6. Enter a title for your pull request. By default, the title will automatically be the name of your branch. For this exercise, let's edit the field to say `Add my first file`.
+6. Enter a title for your pull request. By default, the title will automatically the name of your commit.
 7. The next field helps you provide a description of the changes you made. Here, you can add a description of what you’ve accomplished so far. As a reminder, you have: created a new branch, created a file, and made a commit.
 
    <img alt="screenshot showing pull request" src="/images/Pull-request-description.png" />
